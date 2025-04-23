@@ -4,7 +4,7 @@
       "admin": ["100064714842032"],
       "devMode": false,
       "database": false,
-			"restartTime": 9999999
+      "restartTime": 9999999
     },
     "fcaOption": {
       "forceLogin": true,
